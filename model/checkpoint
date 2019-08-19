@@ -1,0 +1,6 @@
+model_checkpoint_path: "Depth_Model-4901"
+all_model_checkpoint_paths: "Depth_Model-4501"
+all_model_checkpoint_paths: "Depth_Model-4601"
+all_model_checkpoint_paths: "Depth_Model-4701"
+all_model_checkpoint_paths: "Depth_Model-4801"
+all_model_checkpoint_paths: "Depth_Model-4901"
